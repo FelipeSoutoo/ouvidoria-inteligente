@@ -136,3 +136,9 @@ A ordem sugerida é:
 Os valores de similaridade dependem do modelo de embeddings selecionado. Um alto valor de similaridade indica maior proximidade entre as representações vetoriais, mas não garante, isoladamente, que duas manifestações sejam duplicatas.
 
 A definição de limiares deve considerar as características da base e o equilíbrio desejado entre falsos positivos e falsos negativos.
+
+## Integrantes
+
+-   Felipe Souto Maior Mendes
+-   Arthur Xavier Cavalcante
+-   Julliane Di Paula Oliveira Xavier
