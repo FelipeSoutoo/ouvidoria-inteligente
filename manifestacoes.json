@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-08-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há um buraco profundo na Rua das Palmeiras, próximo ao número 120. Os carros precisam desviar para a contramão e o problema piorou depois das últimas chuvas."
+  },
+  {
+    "id": "M002",
+    "data": "2026-08-02",
+    "categoria_oficial": "educação",
+    "texto": "A escola municipal do bairro Jardim Novo está com duas salas sem ventiladores funcionando. As crianças reclamam muito do calor durante as aulas da tarde."
+  },
+  {
+    "id": "M003",
+    "data": "2026-08-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Existe um buraco enorme na Av. Brasil, perto do cruzamento com a Rua Central. O asfalto está cedendo e há risco de acidente para motos e carros."
+  },
+  {
+    "id": "M004",
+    "data": "2026-08-04",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Moradores estão descartando lixo e entulho às margens do riacho do bairro Esperança. O local apresenta mau cheiro e o material pode obstruir o fluxo da água."
+  },
+  {
+    "id": "M005",
+    "data": "2026-08-05",
+    "categoria_oficial": "segurança",
+    "texto": "A praça do bairro Primavera fica muito escura durante a noite e têm ocorrido furtos nas proximidades. Solicitamos reforço das rondas da guarda municipal."
+  },
+  {
+    "id": "M006",
+    "data": "2026-08-06",
+    "categoria_oficial": "saúde",
+    "texto": "A unidade de saúde do Centro está com demora excessiva para marcação de consultas. Há pacientes aguardando várias semanas para conseguir atendimento clínico."
+  },
+  {
+    "id": "M007",
+    "data": "2026-08-07",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O poste de iluminação da Rua do Sol está apagado há vários dias. O trecho fica completamente escuro à noite e dificulta a circulação dos moradores."
+  },
+  {
+    "id": "M008",
+    "data": "2026-08-08",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro São José está sem médico para atendimento da população. Muitos pacientes chegam cedo, mas são informados de que não há profissional disponível."
+  },
+  {
+    "id": "M009",
+    "data": "2026-08-09",
+    "categoria_oficial": "educação",
+    "texto": "Faltam livros didáticos para parte dos alunos da Escola Municipal Monte Verde. Algumas turmas precisam compartilhar o mesmo material durante as atividades."
+  },
+  {
+    "id": "M010",
+    "data": "2026-08-10",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma área verde próxima ao loteamento Bela Vista está sendo usada para descarte irregular de resíduos. Há sacos de lixo, móveis velhos e restos de construção acumulados."
+  },
+  {
+    "id": "M011",
+    "data": "2026-08-11",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores da Rua das Acácias relatam movimentação suspeita durante a madrugada e pedem aumento das rondas da guarda municipal na região."
+  },
+  {
+    "id": "M012",
+    "data": "2026-08-12",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada em frente ao mercado público está quebrada e possui vários desníveis. Idosos e pessoas com mobilidade reduzida têm dificuldade para passar pelo local."
+  },
+  {
+    "id": "M013",
+    "data": "2026-08-13",
+    "categoria_oficial": "saúde",
+    "texto": "A farmácia da unidade básica do bairro Norte está sem medicamentos para hipertensão. Pacientes informaram que já retornaram diversas vezes e não conseguiram retirar os remédios."
+  },
+  {
+    "id": "M014",
+    "data": "2026-08-14",
+    "categoria_oficial": "educação",
+    "texto": "O transporte escolar da zona rural tem apresentado atrasos frequentes. Os estudantes chegam depois do início das aulas e perdem parte do primeiro horário."
+  },
+  {
+    "id": "M015",
+    "data": "2026-08-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há esgoto sendo despejado diretamente em um córrego próximo às residências do bairro Novo Horizonte. A água está escura, com forte odor e presença de insetos."
+  },
+  {
+    "id": "M016",
+    "data": "2026-08-16",
+    "categoria_oficial": "segurança",
+    "texto": "O entorno do terminal rodoviário precisa de mais fiscalização no período noturno. Passageiros relatam sensação de insegurança ao esperar ônibus depois das 21 horas."
+  },
+  {
+    "id": "M017",
+    "data": "2026-08-17",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal, especialmente perto do cruzamento central. Motoristas fazem manobras perigosas para evitar a parte danificada da pista."
+  },
+  {
+    "id": "M018",
+    "data": "2026-08-18",
+    "categoria_oficial": "educação",
+    "texto": "A quadra esportiva da escola do bairro Industrial está com o telhado danificado e o piso apresenta rachaduras, impedindo a realização segura das aulas de educação física."
+  },
+  {
+    "id": "M019",
+    "data": "2026-08-19",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma árvore de grande porte está com galhos secos sobre a ciclovia do Parque Municipal. Em dias de vento há risco de queda sobre ciclistas e pedestres."
+  },
+  {
+    "id": "M020",
+    "data": "2026-08-20",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A Rua São Pedro fica alagada sempre que chove forte. Os bueiros parecem entupidos e a água invade calçadas e garagens das casas mais baixas."
+  },
+  {
+    "id": "M021",
+    "data": "2026-08-21",
+    "categoria_oficial": "saúde",
+    "texto": "Usuários da unidade de saúde da Família reclamam que o atendimento está muito demorado e que há poucos profissionais para a quantidade de pessoas que procuram o serviço."
+  },
+  {
+    "id": "M022",
+    "data": "2026-08-22",
+    "categoria_oficial": "saúde",
+    "texto": "Está faltando atendimento no PSF do bairro São José porque não há médico disponível para as consultas. Moradores estão indo à unidade e voltando para casa sem serem atendidos."
+  },
+  {
+    "id": "M023",
+    "data": "2026-08-23",
+    "categoria_oficial": "segurança",
+    "texto": "A comunidade do bairro das Flores solicita patrulhamento próximo à escola no horário de saída dos alunos, pois houve relatos recentes de assaltos na região."
+  },
+  {
+    "id": "M024",
+    "data": "2026-08-24",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Uma tampa de bueiro está quebrada na Avenida das Nações. O buraco ficou parcialmente aberto e representa perigo para pedestres, ciclistas e motociclistas."
+  },
+  {
+    "id": "M025",
+    "data": "2026-08-25",
+    "categoria_oficial": "educação",
+    "texto": "A creche municipal está com falta de auxiliares em duas turmas. As professoras precisam cuidar de muitas crianças ao mesmo tempo, prejudicando as atividades pedagógicas."
+  },
+  {
+    "id": "M026",
+    "data": "2026-08-26",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Moradores reclamam de queimadas frequentes em terrenos vazios no bairro Aeroporto. A fumaça entra nas casas e causa desconforto, principalmente para crianças e idosos."
+  },
+  {
+    "id": "M027",
+    "data": "2026-08-27",
+    "categoria_oficial": "saúde",
+    "texto": "O posto do bairro Norte continua sem remédios de uso contínuo para pressão alta. Vários moradores não conseguem retirar a medicação necessária na farmácia da unidade."
+  },
+  {
+    "id": "M028",
+    "data": "2026-08-28",
+    "categoria_oficial": "segurança",
+    "texto": "A iluminação fraca na passagem de pedestres perto do mercado tem aumentado a sensação de insegurança. Pedimos manutenção das luminárias e maior presença da guarda."
+  },
+  {
+    "id": "M029",
+    "data": "2026-08-29",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há vazamento de água na Rua Projetada há quase uma semana. A água limpa corre pela sarjeta continuamente e já começou a danificar o pavimento."
+  },
+  {
+    "id": "M030",
+    "data": "2026-08-30",
+    "categoria_oficial": "educação",
+    "texto": "Os computadores do laboratório de informática da Escola Municipal Central estão muito antigos e vários não ligam, dificultando as atividades previstas pelos professores."
+  },
+  {
+    "id": "M031",
+    "data": "2026-08-31",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há uma lâmpada queimada na praça do bairro Central. A área próxima aos bancos fica escura durante a noite e os moradores solicitam a troca da iluminação."
+  },
+  {
+    "id": "M032",
+    "data": "2026-09-01",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O serviço de coleta seletiva não está passando regularmente no bairro Universitário. Materiais recicláveis ficam acumulados por vários dias nas calçadas."
+  },
+  {
+    "id": "M033",
+    "data": "2026-09-02",
+    "categoria_oficial": "saúde",
+    "texto": "Gostaria de relatar a situação enfrentada na unidade de saúde do bairro Boa Vista. Nas últimas semanas, moradores têm chegado antes das seis horas da manhã para tentar uma consulta e encontram uma fila muito grande. Muitas pessoas são idosas ou possuem doenças crônicas e permanecem em pé por bastante tempo. Quando o atendimento começa, a equipe informa que existem poucas fichas disponíveis e vários pacientes precisam retornar em outro dia. Além disso, há relatos de falta de alguns medicamentos de uso contínuo na farmácia da unidade. Solicitamos avaliação da quantidade de profissionais, melhoria na organização das filas e regularização do fornecimento de medicamentos para evitar que os moradores precisem se deslocar repetidas vezes sem conseguir atendimento adequado."
+  },
+  {
+    "id": "M034",
+    "data": "2026-09-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Venho solicitar providências para a Rua das Mangueiras, onde os problemas de drenagem têm causado transtornos há meses. Sempre que ocorre chuva mais intensa, a água se acumula rapidamente porque os bueiros estão cheios de terra, folhas e lixo. O nível da água sobe até as calçadas e, em algumas residências, chega próximo às portas. Depois que a chuva termina, permanecem lama, resíduos e mau cheiro na via. Moradores já tentaram limpar as entradas dos bueiros, mas isso não resolve o bloqueio interno da rede. É necessária uma limpeza completa da drenagem e uma vistoria para verificar se a tubulação existente suporta o volume de água recebido pela rua."
+  },
+  {
+    "id": "M035",
+    "data": "2026-09-04",
+    "categoria_oficial": "educação",
+    "texto": "Pais e responsáveis da Escola Municipal Caminhos do Saber solicitam melhorias na estrutura do prédio. Duas salas apresentam infiltrações no teto e, durante chuvas, é necessário afastar carteiras das paredes para evitar que os alunos se molhem. Alguns ventiladores não funcionam e as salas ficam muito quentes no período da tarde. Os banheiros também precisam de manutenção, pois há torneiras quebradas e portas sem fechadura. A direção informou que já comunicou os problemas, porém ainda não houve reforma. A comunidade escolar pede uma vistoria técnica e um cronograma de reparos para garantir condições adequadas de estudo e trabalho."
+  },
+  {
+    "id": "M036",
+    "data": "2026-09-05",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A situação do terreno localizado atrás do conjunto residencial Parque Verde está preocupando os moradores. O espaço recebe descarte frequente de móveis, restos de obra, sacos de lixo e outros resíduos. Com as chuvas, recipientes acumulam água e aumentam a preocupação com a proliferação de mosquitos. Também há pessoas colocando fogo no material acumulado, produzindo fumaça que entra nas residências próximas. Solicitamos a retirada dos resíduos, fiscalização para impedir novos descartes e avaliação da possibilidade de cercar ou sinalizar o terreno. Uma ação educativa com os moradores também poderia ajudar a evitar que o problema volte a ocorrer."
+  },
+  {
+    "id": "M037",
+    "data": "2026-09-06",
+    "categoria_oficial": "segurança",
+    "texto": "Os moradores do bairro Nova Esperança pedem atenção para a segurança no entorno da praça e do ponto de ônibus principal. Nas últimas semanas ocorreram relatos de furtos de celulares no início da noite, principalmente quando trabalhadores retornam para casa. Parte da iluminação pública também está fraca, deixando alguns trechos com pouca visibilidade. A comunidade solicita aumento das rondas da guarda municipal nos horários de maior movimento, manutenção das luminárias e avaliação de outras medidas preventivas. Muitos moradores passaram a evitar a praça depois das dezenove horas por receio de novos episódios."
+  },
+  {
+    "id": "M038",
+    "data": "2026-09-07",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A iluminação da Rua do Sol continua apresentando problemas. Diversos moradores já relataram que um dos postes permanece apagado durante toda a noite, deixando um trecho da rua muito escuro e dificultando a circulação de pedestres."
+  },
+  {
+    "id": "M039",
+    "data": "2026-09-08",
+    "categoria_oficial": "educação",
+    "texto": "O ônibus que atende os estudantes da zona rural continua chegando atrasado em vários dias da semana. Como consequência, os alunos perdem o começo das aulas e têm prejuízo no acompanhamento das disciplinas."
+  },
+  {
+    "id": "M040",
+    "data": "2026-09-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há novamente grande quantidade de lixo e restos de construção acumulados perto do riacho do bairro Esperança. Os resíduos estão muito próximos da água e moradores temem entupimentos e contaminação."
+  }
+]
